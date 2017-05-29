@@ -1,4 +1,4 @@
-﻿Shader "Unlit/Transparent Color Gradient" {
+﻿Shader "Custom/Unlit/Transparent Color Gradient" {
 	Properties{
 		_MainTex("Base (RGB) Trans (A)", 2D) = "white" { }
 	_Color("Color1", Color) = (1.000000,1.000000,1.000000,1.000000)
