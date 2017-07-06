@@ -1,4 +1,4 @@
-﻿Shader "Custom/Depth Mask" {
+﻿Shader "Custom/Mask/Depth" {
 
 	SubShader{
 		Tags{ "Queue" = "Geometry+10" }
